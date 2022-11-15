@@ -11,7 +11,6 @@ import "./App.css";
 
 // Initialize Firebase
 const firebaseConfig = {
-  // YOUR FIREBASE CONFIG HERE
   apiKey: "AIzaSyCjK_pkVWFm5U7eC04an47by2Rtug_pIDk",
   authDomain: "video-chat-12.firebaseapp.com",
   projectId: "video-chat-12",
